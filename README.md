@@ -1,9 +1,9 @@
-###[飘过的小牛](http://github.thinkingbar.com)
+###[翘课踢球](http://qiaoketiqiu.com)
 
 ---
 
-本博客运行于 [Jekyll](http://jekyllrb.com) @ [GitHub](http://github.com/niushuai/reading)，博客模板修改自 [WebFrog](http://webfrogs.me/) 的博客。
+本博客模板修改自 [WebFrog](http://webfrogs.me/) 和 [飘过的小牛](http://http://github.thinkingbar.com/)的博客。
 
-飘过的小牛
+翘课踢球
 
-2014-03-20
+2016-08-20
