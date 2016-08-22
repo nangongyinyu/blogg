@@ -1,17 +1,13 @@
 #markdown: rdiscount
 permalink: /:title/
-url: http://github.thinkingbar.com
+url: http://qiaoketiqiu.com
 #highlighter: pygments
 highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 100
 paginate_path: "page:num"
-name: 飘过的小牛
-description: 飘过的小牛 | Stop talking, start doing.
-author: niushuai
-email: hnns1990@gmail.com
-duoshuo: niushuai
-weibo: 1891858481
-hub: niushuai
-safe: false
-about: "弱菜一枚。"
+name: 翘课踢球
+description: 翘课踢球 | Stop talking, start doing.
+author: qiaoketiqiu
+email: nangongyinyu@163.com
+about: "从复制开始，至原创终止"
