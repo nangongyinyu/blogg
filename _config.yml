@@ -7,7 +7,11 @@ gems: [jekyll-paginate]
 paginate: 100
 paginate_path: "page:num"
 name: 翘课踢球
-description: 翘课踢球 | Stop talking, start doing.
+description: 翘课踢球 | Keep walk, keep hungry.
 author: qiaoketiqiu
 email: nangongyinyu@163.com
+duoshuo: qiaoketiqiu
+weibo: 1891858481
+hub: nangongyinyu
+safe: false
 about: "从复制开始，至原创终止"
