@@ -17,4 +17,4 @@ comments: no
 * 邮箱：[{{ site.email }}](mailto:{{ site.email }})
 * GitHub : [http://github.com/{{ site.hub }}](http://github.com/{{ site.hub }})
 
-[![新浪微博](http://service.t.sina.com.cn/widget/qmd/{{ site.weibo }}/1873975073/1cd3a528/7.png)](http://weibo.com/u/{{ site.weibo }})
+[![新浪微博](http://service.t.sina.com.cn/widget/qmd/{{ site.weibo }}/1873975073/1cd3a528/7.png)(http://weibo.com/u/{{ site.weibo }})
